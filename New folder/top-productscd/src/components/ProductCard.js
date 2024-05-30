@@ -1,4 +1,3 @@
-// components/ProductCard.js
 import React from 'react';
 import api from '../api';
 
