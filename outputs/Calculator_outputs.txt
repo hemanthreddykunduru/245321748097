@@ -1,0 +1,11 @@
+http://localhost:3000/numbers/p
+{"windowPrevState":[],"windowCurrState":[2,3,5,7,11],"numbers":[2,3,5,7,11],"avg":"5.60"}
+
+http://localhost:3000/numbers/f
+{"windowPrevState":[2,3,5,7,11],"windowCurrState":[3,5,7,11,1,8,13,21,34,55],"numbers":[1,1,2,3,5,8,13,21,34,55],"avg":"15.80"}
+
+http://localhost:3000/numbers/e
+{"windowPrevState":[3,5,7,11,1,8,13,21,34,55],"windowCurrState":[1,8,13,21,34,55,2,4,6,10],"numbers":[2,4,6,8,10],"avg":"15.40"}
+
+http://localhost:3000/numbers/r
+{"windowPrevState":[1,8,13,21,34,55,2,4,6,10],"windowCurrState":[55,2,4,6,10,5,12,7,9,15],"numbers":[5,12,7,9,15],"avg":"12.50"}
